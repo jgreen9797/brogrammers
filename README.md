@@ -52,7 +52,7 @@ I am not sure what is happening
 Me neither
  - Me neither
 
->>>>>>> JasonBranch
+
 
 I'm too cool for school.
 
@@ -64,3 +64,4 @@ I made this change in my branch
 
 VJ is making a change in the VJ BRanch
 
+I am a little tired and hungry
