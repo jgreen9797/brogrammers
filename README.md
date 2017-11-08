@@ -42,6 +42,7 @@ This is another change I made
 
 -Jason made this change
 
+<<<<<<< HEAD
 
 
 ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
@@ -66,3 +67,6 @@ I'm too cool for school.
 No you are not
 
 I made this change in my branch
+=======
+Gobbledegook
+>>>>>>> JasonBranch
