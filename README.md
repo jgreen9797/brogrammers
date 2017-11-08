@@ -99,6 +99,9 @@ Gobbledegook
 █─▀─█ㅤ█▄▄█ㅤㅤ █─▀─█ █ ㅤ █ █ ㅤ █ █▀▀ █▄▄█ㅤ█
 █ㅤㅤ █ㅤ▄▄▄█ㅤ ㅤ█ㅤㅤ█ ─▀▀ ─ ▀ ㅤ ▀ ▀▀▀ ▄▄▄█ㅤ▄
 
+
+No I don't want your money
+
 I am not sure what is happening
 
 
